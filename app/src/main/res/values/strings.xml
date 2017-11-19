@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="player_aka">Aka</string>
+    <string name="player_shiro">Shiro</string>
+    <string name="waza_ari">Waza-ari</string>
+    <string name="ippon">Ippon</string>
+    <string name="han_soku">Han-soku</string>
+    <string name="jo_gai">Jo-gai</string>
+    <string name="jo_gai_score">Jo-gai: 0</string>
+    <string name="score">Score: 0</string>
+    <string name="title">Karate scoring system</string>
+    <string name="font">casual</string>
+
+</resources>

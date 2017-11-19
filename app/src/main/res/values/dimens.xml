@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--multiple of 4-->
+    <dimen name="title">24sp</dimen>
+    <dimen name="icon_size">40dp</dimen>
+    <dimen name="size_16dp">16dp</dimen>
+    <dimen name="size_8dp">8dp</dimen>
+    <dimen name="normal">16sp</dimen>
+
+</resources>
